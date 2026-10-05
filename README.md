@@ -1,6 +1,6 @@
 ### Hi, I'm Outi! 👋
 
-I am an **IT Service Manager, Scrum Master, and Senior Full Stack Developer**, currently working as a **Transition Architect** in a large-scale system modernization project. With a strong background in managing complex public sector IT services (Kela), I bridge the gap between technical depth and agile leadership. Beyond coding and architecture, my heart beats for visual design and continuous learning.
+I am an **IT Service Manager, Scrum Master, and Senior Full Stack Developer**, currently working as a **Transition Architect** in a large-scale system modernization project. With a strong background in managing complex public sector IT services, I bridge the gap between technical depth and agile leadership. Beyond coding and architecture, my heart beats for visual design and continuous learning.
 
 ---
 
